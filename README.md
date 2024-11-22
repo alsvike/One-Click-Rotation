@@ -73,8 +73,33 @@ With an intuitive interface and full control over key configurations, you can op
 
 ## Planned Features for Gamers
 
-- Ability to edit configurations when needed.
-- Support for mouse buttons as triggers or action keys for advanced gameplay setups.
+### Game Profiles
+- Allow users to create profiles for specific games.
+- Each profile could store multiple configurations tailored to different characters, game modes, or scenarios.
+
+### Dynamic Rotation Adjustments
+- Enable users to modify key rotations mid-game without stopping the tool.
+  - Add/remove keys on-the-fly.
+  - Rearrange the sequence order dynamically.
+
+### Mouse Movement and Clicks
+- Support mouse actions, such as:
+  - Simulated mouse movements for aiming or repositioning.
+  - Left/right/middle mouse clicks as part of a sequence.
+
+### Combo Keys
+- Support for combinations like `Shift+1` or `Ctrl+Q` for advanced macro setups.
+
+### Multi-Key Triggers
+- Allow multiple keys to act as a trigger (e.g., pressing `Shift+F1` starts a rotation).
+
+### Ability to Edit Configurations
+- Modify existing configurations for flexibility.
+
+### Support for Mouse Buttons
+- Use mouse buttons as triggers or action keys for advanced gameplay setups.
+
+### Window-Specific Macros
 - Link macros to specific games, ensuring they only run when the game is active.
 
 ## Known Bugs
