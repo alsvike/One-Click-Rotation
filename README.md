@@ -73,7 +73,7 @@ With an intuitive interface and full control over key configurations, you can op
 
 ## Planned Features for Gamers
 
-- Ability to delete configurations when no longer needed.
+- Ability to edit configurations when needed.
 - Support for mouse buttons as triggers or action keys for advanced gameplay setups.
 - Link macros to specific games, ensuring they only run when the game is active.
 
