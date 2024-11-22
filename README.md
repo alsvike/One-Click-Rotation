@@ -71,7 +71,7 @@ With an intuitive interface and full control over key configurations, you can op
 ![Main Window](./assets/main_window.png)
 ![Create Config Window](./assets/create_config_window.png)
 
-## Planned Features for Gamers
+## Planned Features
 
 #### Game Profiles
 - Allow users to create profiles for specific games.
