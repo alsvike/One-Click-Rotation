@@ -67,6 +67,15 @@ The application supports both basic and advanced key configuration and validatio
 ![Main Window](./assets/main_window.png)
 ![Create Config Window](./assets/create_config_window.png)
 
+### Planned Features
+
+- Ability to delete configurations.
+- Support for using mouse buttons as trigger and action keys.
+- Option to link a configuration to a specific process, ensuring it only works when the designated process is running or the window is in the foreground.
+
+### Known Bugs
+
+- The window may freeze when stopping a rotation macro.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
