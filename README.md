@@ -65,6 +65,7 @@ The application supports both basic and advanced key configuration and validatio
 ## Screenshots
 
 ![Main Window](./assets/main_window.png)
+![Main Window](./assets/create_config_window.png)
 
 ## License
 
