@@ -48,7 +48,7 @@ With an intuitive interface and full control over key configurations, you can op
 1. **Create a New Config**:
    - Click **Create Config**.
    - Enter a name (e.g., "Mage Combo").
-   - Select a trigger key (e.g., `F2`) to start the macro.
+   - Select a trigger key (e.g., `F2`) (Key that will act as the one button to press)
    - Add keys to the action sequence (e.g., `1`, `2`, `3` for skill rotation).
    - Save your configuration.
 
