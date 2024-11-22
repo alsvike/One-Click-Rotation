@@ -102,6 +102,21 @@ With an intuitive interface and full control over key configurations, you can op
 #### Window-Specific Macros
 - Link macros to specific games, ensuring they only run when the game is active.
 
+#### Visual Key Mapping
+- Include a graphical interface to drag-and-drop keys into a sequence or map actions to keys visually.
+
+#### Sound Alerts
+- Play sounds when:
+  - A macro starts or stops.
+  - An error occurs (e.g., invalid key).
+
+#### Backup and Import/Export
+- Enable exporting configurations as files for sharing or backups.
+
+#### Error Handling and Logs
+- Add more robust error handling with detailed logs to troubleshoot issues when a macro doesn’t execute as expected.
+
+
 ## Known Bugs
 
 - The application may temporarily freeze when stopping a macro during gameplay. Restart if needed.
