@@ -93,8 +93,8 @@ With an intuitive interface and full control over key configurations, you can op
 #### Multi-Key Triggers
 - Allow multiple keys to act as a trigger (e.g., pressing `Shift+F1` starts a rotation).
 
-#### Ability to Edit Configurations
-- Modify existing configurations for flexibility.
+#### ~Ability to Edit Configurations~
+~- Modify existing configurations for flexibility.~ $${\color{green}ADDED!}$$ Check out the new version!
 
 #### Support for Mouse Buttons
 - Use mouse buttons as triggers or action keys for advanced gameplay setups.
